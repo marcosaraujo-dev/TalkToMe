@@ -69,7 +69,7 @@ Não foram aplicados testes nesse projeto.
 
 Marcos Araujo - [@linkedIn](https://www.linkedin.com/in/marcosaraujosouza/) - marcos.araso@hotmail.com
 
-Project Link: [Projeto_Base_TaketoMe](https://github.com/marcosaraujo-dev/TalkToMe)
+Project Link: [Projeto_Base_TalkToMe](https://github.com/marcosaraujo-dev/TalkToMe)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -77,7 +77,7 @@ Project Link: [Projeto_Base_TaketoMe](https://github.com/marcosaraujo-dev/TalkTo
 
 ## Agradecimentos
 
-![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=herocode&logoColor=white)
+![image](https://img.shields.io/badge/HeroCode-FF0000?style=for-the-badge&logo=herocode&logoColor=white)
 
 - [HeroCode](https://discord.com/invite/rHqjd8uQZd)
 - [Alexia Kattah](https://www.linkedin.com/in/alexiakattah/)
@@ -87,15 +87,15 @@ Project Link: [Projeto_Base_TaketoMe](https://github.com/marcosaraujo-dev/TalkTo
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/marcosaraujo-dev/TaketoMe.svg?style=for-the-badge
-[contributors-url]: https://github.com/marcosaraujo-dev/TaketoMe/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/marcosaraujo-dev/TaketoMe.svg?style=for-the-badge
-[forks-url]: https://github.com/marcosaraujo-dev/TaketoMe/network/members
-[stars-shield]: https://img.shields.io/github/stars/marcosaraujo-dev/TaketoMe.svg?style=for-the-badge
-[stars-url]: https://github.com/marcosaraujo-dev/TaketoMe/stargazers
-[issues-shield]: https://img.shields.io/github/issues/marcosaraujo-dev/TaketoMe.svg?style=for-the-badge
-[issues-url]: https://github.com/marcosaraujo-dev/TaketoMe/issues
-[license-shield]: https://img.shields.io/github/license/marcosaraujo-dev/TaketoMe.svg?style=for-the-badge
-[license-url]: https://github.com/marcosaraujo-dev/TaketoMe/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/marcosaraujo-dev/TalkToMe.svg?style=for-the-badge
+[contributors-url]: https://github.com/marcosaraujo-dev/TalkToMe/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/marcosaraujo-dev/TalkToMe.svg?style=for-the-badge
+[forks-url]: https://github.com/marcosaraujo-dev/TalkToMe/network/members
+[stars-shield]: https://img.shields.io/github/stars/marcosaraujo-dev/TalkToMe.svg?style=for-the-badge
+[stars-url]: https://github.com/marcosaraujo-dev/TalkToMe/stargazers
+[issues-shield]: https://img.shields.io/github/issues/marcosaraujo-dev/TalkToMe.svg?style=for-the-badge
+[issues-url]: https://github.com/marcosaraujo-dev/TalkToMe/issues
+[license-shield]: https://img.shields.io/github/license/marcosaraujo-dev/TalkToMe.svg?style=for-the-badge
+[license-url]: https://github.com/marcosaraujo-dev/TalkToMe/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/marcosaraujosouza/
