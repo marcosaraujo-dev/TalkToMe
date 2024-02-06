@@ -58,7 +58,9 @@ Não foram utilizadas comunicações com base de dados
 ### Designer
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-[@Figma](https://www.figma.com/file/qq74vtXRg5IU9ZxgeyNj0g/Talk-to-me!-(Copy)?type=design&node-id=0-1&mode=design&t=GIhYuDJaFHG4TcWO-0)
+
+Link: [@Figma](https://www.figma.com/file/qq74vtXRg5IU9ZxgeyNj0g/Talk-to-me!-(Copy)?type=design&node-id=0-1&mode=design&t=GIhYuDJaFHG4TcWO-0)
+
 ### Testing
 
 Não foram aplicados testes nesse projeto.
