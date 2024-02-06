@@ -22,7 +22,7 @@ Com o intuito de aprendizado não foram feitas modificações nas funcionalidade
 O intuito do projeto é criar um mecanismo de sala de reuniões usando a tecnologia WebRTC.
 O WebRTC permite a comunicação direta entre navegadores (peer-to-peer) para transmissão de áudio e vídeo sem a necessidade de um servidor intermediário
 
-<h4>Title</h4>
+<h4>Talk to Me</h4>
 Description
 <p align="center>
 <img src="src/images/xxx.jpg" \>
@@ -58,7 +58,7 @@ Não foram utilizadas comunicações com base de dados
 ### Designer
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+[@Figma](https://www.figma.com/file/qq74vtXRg5IU9ZxgeyNj0g/Talk-to-me!-(Copy)?type=design&node-id=0-1&mode=design&t=GIhYuDJaFHG4TcWO-0)
 ### Testing
 
 Não foram aplicados testes nesse projeto.
